@@ -1,5 +1,4 @@
 <center>
   <img src="./gopher.png">
+  <p>Simon Sawert</p>
 </center>
-
-<p style="color: red;">Simon Sawert</p>
