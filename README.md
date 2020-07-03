@@ -1,4 +1,18 @@
-<center>
-  <img src="https://github.com/bombsimon/bombsimon/raw/master/gopher.png">
-  <p>Simon Sawert</p>
-</center>
+```
+☁️   ☁️    ☀️  ☁️ ☁️
+
+  ☁️ ☁️   ✈️      ☁️   ☁️
+
+__🌲_🌳______🌳_🌲__
+        /   \
+       /  |  \
+      /  🚔   \
+     / 🚔      \
+    /     | 🚔  \
+   /  🚔  |   🚔 \
+  /               \
+ /        |        \
+/         🚘        \
+  ИI⅃⅃OЯ ƎM ƎƎƧ YƎHT
+     'ИITAH YHƎT
+```
