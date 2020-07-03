@@ -1,3 +1,3 @@
 <center>
-  <img src="gopher.png">
+  <img src="./gopher.png">
 </center>
